@@ -1,6 +1,8 @@
 <p align="center"><a href="https://segment.com"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/316711/254403783-df7b9cdd-1e45-48a8-a255-e1cc087e2196.svg" width="100"/></a></p>
 
 # Action Destinations
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Faction-destinations.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Faction-destinations?ref=badge_shield)
+
 
 Action Destinations are the new way to build streaming destinations on Segment.
 
@@ -1038,6 +1040,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Faction-destinations.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Faction-destinations?ref=badge_large)
 
 ## Contributing
 
